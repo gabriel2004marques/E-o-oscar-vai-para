@@ -19,7 +19,7 @@ SELECT COUNT(*) FROM oscar WHERE name = "Amy Adams" AND winner = "True"
 4- Alguém já ganhou um Oscar e tem o seu primeiro nome?
 
 R: Não;
-SELECT * FROM `oscar` WHERE name LIKE '%Thiago%' and winner = 'True'
+SELECT * FROM `oscar` WHERE name LIKE '%Gabriel%' and winner = 'True'
 ##
 5- Toy Story 3 ganhou um Oscar em quais anos?
 
